@@ -146,7 +146,7 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="mailto:your@email.com">
+<a href="abhishekamirtharaj2005@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 </p>
@@ -155,7 +155,7 @@
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=abhishekamirtharaj2005&style=for-the-badge&color=blue)
 
 </p>
 
