@@ -1,213 +1,168 @@
-<div align="center">
-
-# 🚀 Project Name
-
-### *A short, catchy one-line description of your project.*
+<h1 align="center">Hi 👋, I'm Abhishek</h1>
+<h3 align="center">🚀 AI Engineer | Full Stack Developer | Open Source Enthusiast</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/USERNAME/REPOSITORY?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/USERNAME/REPOSITORY?style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/USERNAME/REPOSITORY?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/USERNAME/REPOSITORY?style=for-the-badge">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Building+Autonomous+AI+Agents;Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="#features">Features</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#usage">Usage</a> •
-  <a href="#roadmap">Roadmap</a> •
-  <a href="#contributing">Contributing</a> •
-  <a href="#license">License</a>
+---
+
+## 💫 About Me
+
+- 🤖 Building AI Agents
+- 🧠 Learning LLMs & Agentic AI
+- 💻 Full Stack Development
+- 🌱 Exploring Open Source
+- 🎯 Goal: Build impactful AI products
+- ⚡ Fun fact: I enjoy solving challenging coding problems.
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp,c" />
 </p>
 
-</div>
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+### DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,bash" />
+</p>
 
 ---
 
-# 📖 About
-
-Project Name is a powerful application that helps users accomplish **[your goal]** quickly and efficiently.
-
-> **Simple. Fast. Powerful.**
-
----
-
-# ✨ Features
-
-- 🚀 High Performance
-- 🤖 AI Powered
-- 🎨 Modern UI
-- 🔒 Secure Authentication
-- 📊 Analytics Dashboard
-- 🌙 Dark Mode
-- 📱 Responsive Design
-- ⚡ Easy Setup
-
----
-
-# 🖼️ Preview
-
-![Preview](images/preview.png)
-
----
-
-# 🛠️ Tech Stack
-
-| Frontend | Backend | Database | AI | Deployment |
-|----------|----------|----------|----|------------|
-| React | Node.js | PostgreSQL | OpenAI | Docker |
-| Tailwind CSS | Express | Redis | Ollama | Vercel |
-
----
-
-# 📂 Project Structure
-
-```
-project/
-│
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── services/
-│   └── utils/
-│
-├── public/
-├── docs/
-├── assets/
-├── README.md
-└── package.json
-```
-
----
-
-# ⚙️ Installation
-
-```bash
-# Clone repository
-git clone https://github.com/USERNAME/REPOSITORY.git
-
-# Move into project
-cd REPOSITORY
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-```
-
----
-
-# 🚀 Usage
-
-```bash
-npm start
-```
-
-Visit:
-
-```
-http://localhost:3000
-```
-
----
-
-# 📸 Screenshots
-
-| Home | Dashboard |
-|------|-----------|
-| ![](images/home.png) | ![](images/dashboard.png) |
-
----
-
-# 🎯 Roadmap
-
-- [x] Initial Release
-- [x] Authentication
-- [x] Dashboard
-- [ ] AI Integration
-- [ ] Mobile App
-- [ ] Docker Support
-- [ ] CI/CD
-
----
-
-# 🤝 Contributing
-
-Contributions are welcome!
-
-```bash
-Fork the repository
-
-Create your feature branch
-
-Commit your changes
-
-Push to the branch
-
-Open a Pull Request
-```
-
----
-
-# ⭐ Support
-
-If you like this project:
-
-⭐ Star the repository
-
-🍴 Fork it
-
-🐞 Report issues
-
-💡 Suggest new features
-
----
-
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 Trophies
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&margin-w=10"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📬 Contact
+# 🏆 GitHub Trophies
 
-**Your Name**
+<p align="center">
 
-📧 email@example.com
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
-💼 LinkedIn: https://linkedin.com/in/yourprofile
-
-🌐 Portfolio: https://yourwebsite.com
+</p>
 
 ---
 
-# 📜 License
+# 📈 Contribution Graph
 
-This project is licensed under the MIT License.
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
 
 ---
 
-<div align="center">
+# 💻 Current Focus
 
-### ⭐ Don't forget to star this repository if you found it useful!
+```text
+🤖 Agentic AI
+██████████████████████ 100%
 
-Made with ❤️ by **Your Name**
+🐍 Python
+███████████████████░░ 90%
 
-</div>
+⚛ React
+█████████████████░░░░ 85%
+
+🟢 Node.js
+████████████████░░░░░ 80%
+
+🧠 Machine Learning
+███████████████░░░░░░ 75%
+```
+
+---
+
+# 🚀 Featured Projects
+
+⭐ AI Trading Agent
+
+⭐ Autonomous AI Assistant
+
+⭐ Full Stack SaaS
+
+⭐ Machine Learning Projects
+
+⭐ Open Source Contributions
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue)
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ "Code. Learn. Build. Repeat."
+
+</p>
