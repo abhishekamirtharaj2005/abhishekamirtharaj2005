@@ -14,7 +14,7 @@
 - 💻 Full Stack Development
 - 🌱 Exploring Open Source
 - 🎯 Goal: Build impactful AI products
-- ⚡ Fun fact: I enjoy solving challenging coding problems.
+- ⚡ Fun fact: I enjoy solving challenging problems.
 
 ---
 
