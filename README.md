@@ -1,147 +1,97 @@
-<h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">🚀 AI Engineer | Full Stack Developer | Open Source Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Building+Autonomous+AI+Agents;Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+Something+New" alt="Typing SVG" />
-</p>
+# Hi, I'm Abhishek A 👋
 
----
+### Full Stack Developer | AI Engineer
 
-## 💫 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=480&lines=Building+full-stack+apps+with+React+%26+Next.js;Building+AI+agents+with+LangGraph+%26+RAG;Exploring+local+LLMs+with+Ollama+%26+LM+Studio)](https://github.com/abhishekamirtharaj2005)
 
-- 🤖 Building AI Agents
-- 🧠 Learning LLMs & Agentic AI
-- 💻 Full Stack Development
-- 🌱 Exploring Open Source
-- 🎯 Goal: Build impactful AI products
-- ⚡ Fun fact: I enjoy solving challenging problems.
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekcse23@csice.edu.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-a-78abb6299)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abhishek-portfolio-gamma-ten.vercel.app)
+
+</div>
 
 ---
 
-## 🚀 Tech Stack
+### 👨‍💻 About Me
 
-### Languages
+- 🎓 B.E. Computer Science and Engineering, CSI College of Engineering, Tamil Nadu (2023 – 2027)
+- 💻 Full stack developer working with React, Next.js, TypeScript, and Node.js
+- 🤖 ~2 years building AI-powered applications — AI agents, RAG pipelines, and local LLM-based systems
+- 🔧 Hands-on with LangGraph, MCP, and prompt engineering
+- 📍 Alappuzha, Kerala, India
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp,c" />
-</p>
+### 🛠️ Tech Stack
 
-### Frontend
+**Languages**
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
-</p>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Backend
+**Frontend**
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### Database
+**Backend**
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
-</p>
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-### AI / ML
+**AI / ML**
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-2E9EF7?style=for-the-badge)
 
-### DevOps
+**Tools**
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,bash" />
-</p>
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![LM Studio](https://img.shields.io/badge/LM%20Studio-000000?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
----
+### 🚀 Featured Projects
 
-# 🔥 GitHub Streak
+- **[Personal Portfolio](https://abhishek-portfolio-gamma-ten.vercel.app)** — Responsive developer portfolio built with React, Next.js, TypeScript, Tailwind CSS, and Framer Motion. Deployed on Vercel.
+- **AI Research Assistant** — An AI agent that researches user-provided documents and answers questions grounded in their content.
+- **Simple AI Assistant** — A voice-driven assistant that handles simple tasks like opening apps (YouTube, Chrome, etc.) on command.
 
-<p align="center">
+### 💼 Experience
 
-<img src="https://streak-stats.demolab.com?user=abhishekamirtharaj2005&theme=tokyonight&hide_border=true"/>
+- **Web Development Intern**, Lets Gametech — Built responsive web apps with HTML, CSS, JavaScript, React, and Node.js
+- **Cyber Security Intern**, Codicature — Networking, Linux, and OWASP security practices; introductory vulnerability assessment
+- **Data Analytics Intern**, Cloud Institution — Python-based data preprocessing, analytics, and visualization
 
-</p>
+### 📜 Certifications
 
+- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+- Oracle Cloud Infrastructure 2025 Certified Foundations Associate
+- Generative AI in Action — IBM SkillsBuild
+- Build AI Agents using LangGraph — Simplilearn
+- Salesforce Training: Master the Essentials — Simplilearn
 
----
+### 📊 GitHub Stats
 
-# 📈 Contribution Graph
+<div align="center">
 
-<p align="center">
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekamirtharaj2005&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekamirtharaj2005&layout=compact&theme=radical&hide_border=true)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekamirtharaj2005&theme=tokyo-night"/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=abhishekamirtharaj2005&theme=radical&hide_border=true)
 
-</p>
-
----
-
-# 💻 Current Focus
-
-```text
-🤖 Agentic AI
-██████████████████████ 100%
-
-🐍 Python
-███████████████████░░ 90%
-
-⚛ React
-█████████████████░░░░ 85%
-
-🟢 Node.js
-████████████████░░░░░ 80%
-
-🧠 Machine Learning
-███████████████░░░░░░ 75%
-```
+</div>
 
 ---
 
-# 🚀 Featured Projects
+<div align="center">
 
-⭐ AI Trading Agent
+![Profile Views](https://komarev.com/ghpvc/?username=abhishekamirtharaj2005&color=blueviolet&style=flat)
 
-⭐ Autonomous AI Assistant
-
-⭐ Full Stack SaaS
-
-⭐ Machine Learning Projects
-
-⭐ Open Source Contributions
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/abhishek-a-78abb6299">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/abhishekamirtharaj2005">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="abhishekamirtharaj2005@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-</p>
-
----
-
-<p align="center">
-
-![](https://komarev.com/ghpvc/?username=abhishekamirtharaj2005&style=for-the-badge&color=blue)
-
-</p>
-
----
-
-<p align="center">
-
-### ⭐ "Code. Learn. Build. Repeat."
-
-</p>
+</div>
